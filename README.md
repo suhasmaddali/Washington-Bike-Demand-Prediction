@@ -4,6 +4,8 @@ There are different bike companies such as Zagster and Lime Bikes that are prese
 
 ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo-washington-dc-usa-march-102014-capitol-bikeshare-a-bike-rental-service-80221415.html&psig=AOvVaw2ZSjQtIL72_WVn_h6Brdrb&ust=1624046373420000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKC1xK26n_ECFQAAAAAdAAAAABAD)
 
+![alt text](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/[branch]/image.jpg?raw=true)
+
 One of the challenges that these companies face is to know the number of bikes that must be placed at different locations at different instances of time to ensure that they get maximum profit and give the people their rides when needed. Sometimes there is a possibility of people missing out these bikes due to their unavailability. On the contrary, there are also instances where the demand for these bikes are low while they are highly available. It becomes important to tackle these instances and understand the demand for the bikes for different days and different scenarios. 
 
 With the help of machine learning and deep learning, this problem could be addressed and this would ensure that the demand for the bikes are known beforehand and thus, the companies could ensure that there are adequate bikes present in different locations. 
