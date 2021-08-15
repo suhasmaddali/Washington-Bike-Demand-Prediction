@@ -1,6 +1,6 @@
 # Washington Bike Demand Prediction
 
-There are different bike companies such as Zagster and Lime Bikes that are present all over the US to ensure that people get rides as and when needed. As a result, there is an increase in demand for these bikes as some people move to these cost-efficient and environment friendly transport options. Thus, there is a good demand for these bikes respectively.
+There are different bike companies such as Zagster and Lime Bikes that are present all over the US to ensure that people get rides as and when needed. As a result, there is an increase in demand for these bikes as some people move to these cost-efficient and environment friendly transport options. As a result of these transition, there is variation in the demand for bikes in different regions. 
 
 ![foxdemo](https://upload.wikimedia.org/wikipedia/commons/5/54/Capital_Bikeshare_station_outside_Eastern_Market_Metro.jpg)
 ![foxdemo](https://cdn3.creativecirclemedia.com/liherald/original/1350078611_0a6b.jpg)
