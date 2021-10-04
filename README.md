@@ -13,6 +13,6 @@ Therefore, with the help of data visualization and machine learning, bike rental
 
 It is important to know some of the features that are present in the data so that we could be doing the machine learning analysis. We would be performing various data visualizations to understand some of the underlying features and once we get a good understanding of them, we are going to be using different machine learning models for predicting the demand for bikes based on these features. Once we get the machine learning predictions, we are going to be using different strategies that could aid us in the process of productionizing the models that could be used in different ways in companies. Therefore, this would save a lot of time and money for the bike rental companies where the demand for the bikes is predicted beforehand with the aid of machine learning and deep learning respectively. 
 
-# Directions to run the Ipython notebook 
+## Directions to run the Ipython notebook 
 
 1. You'll have to download and install GitBash that could be used for cloning the repositories that are present. The link to download GitBash is https://git-scm.com/downloads.
