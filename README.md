@@ -15,4 +15,5 @@ It is important to know some of the features that are present in the data so tha
 
 ## Directions to run the Ipython notebook 
 
-1. You'll have to download and install GitBash that could be used for cloning the repositories that are present. The link to download GitBash is https://git-scm.com/downloads.
+1. You'll have to download and install Git that could be used for cloning the repositories that are present. The link to download Git is https://git-scm.com/downloads.
+2. Once the Git is downloaded and installed, you'll have to right-click on the location where you would like to add the files or the repository. 
