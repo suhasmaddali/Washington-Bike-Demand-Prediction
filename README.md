@@ -4,6 +4,8 @@
 
 There are different bike companies such as Zagster and Lime Bikes present all over the US to ensure that people get rides when needed. As a result, there is an increase in demand for these bikes as some people move to these cost-efficient and environment friendly transport options. As a result of this transition, there is variation in the demand for bikes in different regions. 
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/greg-bulla-c-Yb-ot1nmE-unsplash.jpg" width = 1000 />
+
 
 
 One of the challenges that these companies face is to know the number of bikes that must be placed at different locations at different instances of time to ensure that they get maximum profit and give the people their rides. Sometimes there is a possibility of people missing out these bikes due to their unavailability. On the contrary, there are also instances when the demand for these bikes are low while they are highly available. It becomes important to tackle these instances and understand the demand for the bikes for different days and scenarios. 
