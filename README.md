@@ -24,3 +24,8 @@ It is important to know some of the features that are present in the data so tha
 4. Once the Gitbash terminal opens, you'll need to write "Git clone" and then paste the link of the repository. 
 5. The link of the repository can be found when you click on "Code" (Green button) and then, there would be a html link just below. Therefore, the command to download a particular repository should be "Git clone html" where the html is replaced by the link to this repository. 
 6. Once downloaded, you might use the jupyter notebook to run the .ipynb files or other navigators to open this file.  
+
+![](https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png)
+
+![](https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(13).png)
+
