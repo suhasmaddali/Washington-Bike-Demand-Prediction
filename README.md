@@ -41,27 +41,27 @@ It is important to know some of the features that are present in the data so tha
 
 6. After successfully downloading the repository, there should be a folder with the name of the repository as can be seen below.
 
-&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(13).png" width = "600" />
-
 &emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(19).png" width = "600" />
 
-8. Once the repository is downloaded, go to the start button and search for "Anaconda Prompt" if you have anaconda installed. 
+7. Once the repository is downloaded, go to the start button and search for "Anaconda Prompt" if you have anaconda installed. 
 
 &emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(20).png" width = "600" />
 
-7. Later, open the jupyter notebook by writing "jupyter notebook" in the Anaconda prompt. 
+8. Later, open the jupyter notebook by writing "jupyter notebook" in the Anaconda prompt. 
 
 &emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(21).png" width = "600" />
 
-8. Now the following would open with a list of directories. 
+9. Now the following would open with a list of directories. 
 
 &emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(22).png" width = "600" />
 
-9. Search for the location where you have downloaded the repository. Be sure to open that folder. 
+10. Search for the location where you have downloaded the repository. Be sure to open that folder. 
 
 &emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "600" />
 
 10. You might now run the .ipynb files present in the repository to open the notebook and the python code present in it. 
+
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(13).png" width = "600" />
 
 
 
