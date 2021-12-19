@@ -49,6 +49,8 @@ It is important to know some of the features that are present in the data so tha
 
 11. Now the following would open with a list of directories. 
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(22).png" width = "500" />
+
 12. Search for the location where you have downloaded the repository. Be sure to open that folder. 
 
 14. Once downloaded, you might use the jupyter notebook to run the .ipynb files or other navigators to open this file.  
@@ -64,7 +66,7 @@ It is important to know some of the features that are present in the data so tha
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(19).png" width = "500" />
 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(22).png" width = "500" />
+
 
 
 
