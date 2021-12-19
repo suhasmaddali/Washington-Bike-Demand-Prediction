@@ -45,6 +45,8 @@ It is important to know some of the features that are present in the data so tha
 
 10. Later, open the jupyter notebook by writing "jupyter notebook" in the Anaconda prompt. 
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(21).png" width = "500" />
+
 11. Now the following would open with a list of directories. 
 
 12. Search for the location where you have downloaded the repository. Be sure to open that folder. 
@@ -61,7 +63,7 @@ It is important to know some of the features that are present in the data so tha
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(19).png" width = "500" />
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(21).png" width = "500" />
+
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(22).png" width = "500" />
 
 
