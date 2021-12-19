@@ -55,7 +55,7 @@ It is important to know some of the features that are present in the data so tha
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
 
-14. Once downloaded, you might use the jupyter notebook to run the .ipynb files or other navigators to open this file.  
+14. You might now run the .ipynb files present in the repository to open the notebook and the python code present in it. 
 
 
 
