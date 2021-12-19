@@ -24,42 +24,42 @@ It is important to know some of the features that are present in the data so tha
  
 2. Once "Git" is downloaded and installed, you'll have to right-click on the location where you would like to download this repository.  
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(15).png" width = "750" />
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(15).png" width = "750" />
 
 3. If you have successfully installed Git, you'll get an option called "Gitbash Here" when you right-click on a particular location. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(16).png" width = "750" />
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(16).png" width = "750" />
 
 
 4. Once the Gitbash terminal opens, you'll need to write "Git clone" and then paste the link of the repository.
  
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(18).png" width = "750" />
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(18).png" width = "750" />
 
 5. The link of the repository can be found when you click on "Code" (Green button) and then, there would be a html link just below. Therefore, the command to download a particular repository should be "Git clone html" where the html is replaced by the link to this repository. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(17).png" width = "750" />
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(17).png" width = "750" />
 
 6. Once the repository is downloaded, go to the start button and search for "Anaconda Prompt" if you have anaconda installed. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(20).png" width = "750" />
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(20).png" width = "750" />
 
 10. Later, open the jupyter notebook by writing "jupyter notebook" in the Anaconda prompt. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(21).png" width = "500" />
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(21).png" width = "500" />
 
 11. Now the following would open with a list of directories. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(22).png" width = "500" />
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(22).png" width = "500" />
 
 12. Search for the location where you have downloaded the repository. Be sure to open that folder. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
 
 14. You might now run the .ipynb files present in the repository to open the notebook and the python code present in it. 
 
 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(13).png" width = "500" />
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(13).png" width = "500" />
 
 
 
