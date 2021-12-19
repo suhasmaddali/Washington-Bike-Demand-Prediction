@@ -41,6 +41,8 @@ It is important to know some of the features that are present in the data so tha
 
 9. Once the repository is downloaded, go to the start button and search for "Anaconda Prompt" if you have anaconda installed. 
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(20).png" width = "500" />
+
 10. Later, open the jupyter notebook by writing "jupyter notebook" in the Anaconda prompt. 
 
 11. Now the following would open with a list of directories. 
@@ -58,7 +60,7 @@ It is important to know some of the features that are present in the data so tha
 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(19).png" width = "500" />
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(20).png" width = "500" />
+
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(21).png" width = "500" />
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(22).png" width = "500" />
 
