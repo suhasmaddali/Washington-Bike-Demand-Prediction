@@ -39,7 +39,13 @@ It is important to know some of the features that are present in the data so tha
 
 &emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(17).png" width = "600" />
 
-6. Once the repository is downloaded, go to the start button and search for "Anaconda Prompt" if you have anaconda installed. 
+6. After successfully downloading the repository, there should be a folder with the name of the repository as can be seen below.
+
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(13).png" width = "600" />
+
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(19).png" width = "600" />
+
+8. Once the repository is downloaded, go to the start button and search for "Anaconda Prompt" if you have anaconda installed. 
 
 &emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(20).png" width = "600" />
 
@@ -59,13 +65,13 @@ It is important to know some of the features that are present in the data so tha
 
 
 
-&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(13).png" width = "600" />
 
 
 
 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(19).png" width = "500" />
+
+
 
 
 
