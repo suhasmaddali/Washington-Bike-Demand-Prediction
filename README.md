@@ -36,7 +36,11 @@ It is important to know some of the features that are present in the data so tha
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(18).png" width = "500" />
 
 8. The link of the repository can be found when you click on "Code" (Green button) and then, there would be a html link just below. Therefore, the command to download a particular repository should be "Git clone html" where the html is replaced by the link to this repository. 
-9. Once downloaded, you might use the jupyter notebook to run the .ipynb files or other navigators to open this file.  
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(17).png" width = "500" />
+
+
+10. Once downloaded, you might use the jupyter notebook to run the .ipynb files or other navigators to open this file.  
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
 
@@ -44,7 +48,7 @@ It is important to know some of the features that are present in the data so tha
 
 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(17).png" width = "500" />
+
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(19).png" width = "500" />
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(20).png" width = "500" />
