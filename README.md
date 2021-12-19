@@ -20,28 +20,28 @@ It is important to know some of the features that are present in the data so tha
 
 1. You'll have to download and install Git that could be used for cloning the repositories that are present. The link to download Git is https://git-scm.com/downloads.
  
- <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(14).png" width = "750" height = "750"/>
+ <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(14).png" width = "750"/>
  
 2. Once "Git" is downloaded and installed, you'll have to right-click on the location where you would like to download this repository.  
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(15).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(15).png" width = "750" />
 
-4. If you have successfully installed Git, you'll get an option called "Gitbash Here" when you right-click on a particular location. 
+3. If you have successfully installed Git, you'll get an option called "Gitbash Here" when you right-click on a particular location. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(16).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(16).png" width = "750" />
 
 
-6. Once the Gitbash terminal opens, you'll need to write "Git clone" and then paste the link of the repository.
+4. Once the Gitbash terminal opens, you'll need to write "Git clone" and then paste the link of the repository.
  
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(18).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(18).png" width = "750" />
 
-8. The link of the repository can be found when you click on "Code" (Green button) and then, there would be a html link just below. Therefore, the command to download a particular repository should be "Git clone html" where the html is replaced by the link to this repository. 
+5. The link of the repository can be found when you click on "Code" (Green button) and then, there would be a html link just below. Therefore, the command to download a particular repository should be "Git clone html" where the html is replaced by the link to this repository. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(17).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(17).png" width = "750" />
 
-9. Once the repository is downloaded, go to the start button and search for "Anaconda Prompt" if you have anaconda installed. 
+6. Once the repository is downloaded, go to the start button and search for "Anaconda Prompt" if you have anaconda installed. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(20).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(20).png" width = "750" />
 
 10. Later, open the jupyter notebook by writing "jupyter notebook" in the Anaconda prompt. 
 
