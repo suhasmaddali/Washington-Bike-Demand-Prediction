@@ -27,37 +27,35 @@ It is important to know some of the features that are present in the data so tha
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(13).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(14).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(15).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(16).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(17).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(18).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(19).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(20).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(21).png" width = "500" />
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(22).png" width = "500" />
 
 
-https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(13).png
 
-https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(14).png
 
-https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(15).png
 
-https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(16).png
 
-https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(17).png
 
-https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(18).png
 
-https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(19).png
 
-https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(20).png
 
-https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(21).png
 
-https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(22).png
+
+
+
+
+
+
+
+
 
 
 
