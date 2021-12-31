@@ -22,7 +22,7 @@ This is for the Washington Bike Demand Prediction repository. But the same steps
 
 1. You'll have to download and install Git that could be used for cloning the repositories that are present. The link to download Git is https://git-scm.com/downloads.
  
-&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(14).png" width = "600"/>
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Screenshot%20(14).png" width = "600"/>
  
 2. Once "Git" is downloaded and installed, you'll have to right-click on the location where you would like to download this repository. I would like to store it in "Git Folder" location. 
 
