@@ -26,7 +26,7 @@ This is for the Washington Bike Demand Prediction repository. But the same steps
  
 2. Once "Git" is downloaded and installed, you'll have to right-click on the location where you would like to download this repository. I would like to store it in "Git Folder" location. 
 
-&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(15).png" width = "600" />
+&emsp;&emsp; <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Screenshot%20(15).png" width = "600" />
 
 3. If you have successfully installed Git, you'll get an option called "Gitbash Here" when you right-click on a particular location. 
 
