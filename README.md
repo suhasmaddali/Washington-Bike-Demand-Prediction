@@ -8,7 +8,7 @@ There are different bike companies such as [Zagster](https://en.wikipedia.org/wi
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/viktor-keri-UdGEXZtlx-E-unsplash.jpg" width = 1000 height = "600"/>
 
-
+## Challenges
 
 One of the challenges that these companies face is to know the number of bikes that must be placed at different locations at different instances of time to ensure that they get maximum profit and give the people their rides. Sometimes there is a possibility of people missing out these bikes due to their unavailability. On the contrary, there are also instances when the demand for these bikes are low while they are highly available. It becomes important to tackle these instances and understand the demand for the bikes for different days and scenarios. 
 
