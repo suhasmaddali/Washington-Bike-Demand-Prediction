@@ -12,6 +12,8 @@ There are different bike companies such as [Zagster](https://en.wikipedia.org/wi
 
 One of the challenges that these companies face is to know the number of bikes that must be placed at different locations at different instances of time to ensure that they get maximum profit and give the people their rides. Sometimes there is a possibility of people missing out these bikes due to their unavailability. On the contrary, there are also instances when the demand for these bikes are low while they are highly available. It becomes important to tackle these instances and understand the demand for the bikes for different days and scenarios. 
 
+## Data Science and Machine Learning 
+
 With the help of machine learning and deep learning, this problem could be addressed and this would ensure that the demand for the bikes are known beforehand and thus, the companies could ensure that there are adequate bikes present in different locations. 
 
 Therefore, with the help of data visualization and machine learning, bike rental companies would be able to understand the total number of bikes that must be present at different instances of time and thus, they would be able to predict the demand for the bikes in the future. This would ensure that the companies save millions of dollars by giving the right service to different people who are in need. 
