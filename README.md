@@ -16,7 +16,7 @@ One of the challenges that these companies face is to know the __number of bikes
 
 With the help of __machine learning__ and __deep learning__, this problem could be addressed and this would ensure that the demand for the bikes are known beforehand and thus, the companies could ensure that there are __adequate bikes__ present in different locations. 
 
-## Exploratory Data Analysis 
+## Exploratory Data Analysis (EDA)
 
 Therefore, with the help of __data visualization__ and __machine learning__, bike rental companies would be able to understand the total number of bikes that must be present at different instances of time and thus, they would be able to predict the demand for the bikes in the future. This would ensure that the companies save millions of dollars by giving the right service to different people who are in need. 
 
