@@ -45,6 +45,7 @@ It is important to know some of the features that are present in the data so tha
 ## Outcomes
 * The models that were performed the best for predicting the bike demand are __Gradient Boosting Decision Regressor__ and __Deep Neural Networks__.
 * __Exploratory Data Analysis (EDA)__ was performed to ensure that there is a good understanding of different features and their contribution to the output variable respectively. 
+* The best machine learning models were able to generate a __mean absolute error (MAE)__ of about __23__ which is really good considering the scale of the problem at hand.
 
 ## Future Scope
 * Additional features such as the __street connectivity score__ and __people's perceptions__ about the bicycling environment could be added to generate even more good predictions from the models. 
