@@ -29,7 +29,7 @@ Since this is a __regression__ problem, we consider metrics that take into accou
 
 ## Machine Learning Models
 
-There are a large number of machine learning models used in the prediction of the demand for Washington Bikes. Below are the models that were used for prediction.
+There are a large number of machine learning models used in the prediction of the demand for __Washington Bikes__. Below are the models that were used for prediction.
 
 * __Deep Neural Networks__
 * __K Nearest Neighbors__
