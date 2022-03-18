@@ -14,7 +14,13 @@ One of the challenges that these companies face is to know the __number of bikes
 
 ## Data Science and Machine Learning 
 
-With the help of __machine learning__ and __deep learning__, this problem could be addressed and this would ensure that the demand for the bikes are known beforehand and thus, the companies could ensure that there are __adequate bikes__ present in different locations. 
+With the help of __machine learning__ and __deep learning__, this problem could be addressed and this would ensure that the demand for the bikes are known beforehand and thus, the companies could ensure that there are __adequate bikes__ present in different locations.
+
+## Metrics
+
+Since this is a regression problem, we consider metrics that take into account continuous output variables and give their estimates based on the difference between the actual output and predicted output. Below are some metrics that are used for this prediction.
+
+
 
 ## Exploratory Data Analysis (EDA)
 
