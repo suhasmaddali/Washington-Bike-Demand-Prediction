@@ -23,7 +23,16 @@ Since this is a regression problem, we consider metrics that take into account c
 * __Mean Squared Error__
 * __Mean Absolute Error__
 
+## Machine Learning Models
 
+There are a large number of machine learning models used in the prediction of the demand for Washington Bikes. Below are the models that were used for prediction.
+
+* __Deep Neural Networks__
+* __K Nearest Neighbors__
+* __Partial Least Squares (PLS) Regression__
+* __Decision Tree Regressor__
+* __Gradient Boosting Regressor__
+* __Logistic Regression__
 
 ## Exploratory Data Analysis (EDA)
 
