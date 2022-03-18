@@ -46,6 +46,10 @@ It is important to know some of the features that are present in the data so tha
 * The models that were performed the best for predicting the bike demand are __Gradient Boosting Decision Regressor__ and __Deep Neural Networks__.
 * __Exploratory Data Analysis (EDA)__ was performed to ensure that there is a good understanding of different features and their contribution to the output variable respectively. 
 
+## Future Scope
+* Additional features such as the street connectivity score and people's perceptions about the bicycling environment could be added to generate even more good predictions from the models. 
+* The best machine learning models could be deployed in real-time where the demand for bikes is highlighted so that admins can take action based on the demand. 
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
