@@ -22,7 +22,7 @@ Therefore, with the help of __data visualization__ and __machine learning__, bik
 
 ## Metrics
 
-Since this is a regression problem, we consider metrics that take into account continuous output variables and give their estimates based on the difference between the actual output and predicted output. Below are some metrics that are used for this prediction.
+Since this is a __regression__ problem, we consider metrics that take into account __continuous output variables__ and give their estimates based on the difference between the __actual output__ and __predicted output__. Below are some metrics that are used for this prediction.
 
 * __Mean Squared Error__
 * __Mean Absolute Error__
