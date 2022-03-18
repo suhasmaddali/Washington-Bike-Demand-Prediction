@@ -47,8 +47,8 @@ It is important to know some of the features that are present in the data so tha
 * __Exploratory Data Analysis (EDA)__ was performed to ensure that there is a good understanding of different features and their contribution to the output variable respectively. 
 
 ## Future Scope
-* Additional features such as the street connectivity score and people's perceptions about the bicycling environment could be added to generate even more good predictions from the models. 
-* The best machine learning models could be deployed in real-time where the demand for bikes is highlighted so that admins can take action based on the demand. 
+* Additional features such as the __street connectivity score__ and __people's perceptions__ about the bicycling environment could be added to generate even more good predictions from the models. 
+* The best machine learning models could be __deployed__ in real-time where the demand for bikes is highlighted so that admins can take action based on the __demand__. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
