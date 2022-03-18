@@ -20,6 +20,9 @@ With the help of __machine learning__ and __deep learning__, this problem could 
 
 Since this is a regression problem, we consider metrics that take into account continuous output variables and give their estimates based on the difference between the actual output and predicted output. Below are some metrics that are used for this prediction.
 
+* __Mean Squared Error__
+* __Mean Absolute Error__
+
 
 
 ## Exploratory Data Analysis (EDA)
