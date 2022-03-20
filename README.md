@@ -37,6 +37,7 @@ There are a large number of machine learning models used in the prediction of th
 * __Decision Tree Regressor__
 * __Gradient Boosting Regressor__
 * __Logistic Regression__
+* __Long Short Term Memory (LSTM)__
 
 ## Machine Learning Predictions and Analysis 
 
