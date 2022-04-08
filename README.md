@@ -31,7 +31,7 @@ Since this is a __regression__ problem, we consider metrics that take into accou
 
 There are a large number of machine learning models used in the prediction of the demand for __Washington Bikes__. Below are the models that were used for prediction.
 
-* __Deep Neural Networks__
+* [__Deep Neural Networks__](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html)
 * __K Nearest Neighbors__
 * __Partial Least Squares (PLS) Regression__
 * __Decision Tree Regressor__
