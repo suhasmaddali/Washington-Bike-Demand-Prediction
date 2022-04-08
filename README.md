@@ -34,7 +34,7 @@ There are a large number of machine learning models used in the prediction of th
 * [__Deep Neural Networks__](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html)
 * [__K Nearest Neighbors__](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html)
 * [__Partial Least Squares (PLS) Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSRegression.html)
-* __Decision Tree Regressor__
+* [__Decision Tree Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
 * __Gradient Boosting Regressor__
 * __Logistic Regression__
 * __Long Short Term Memory (LSTM)__
