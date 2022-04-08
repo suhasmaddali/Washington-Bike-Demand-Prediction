@@ -24,7 +24,7 @@ Therefore, with the help of __data visualization__ and __machine learning__, bik
 
 Since this is a __regression__ problem, we consider metrics that take into account __continuous output variables__ and give their estimates based on the difference between the __actual output__ and __predicted output__. Below are some metrics that are used for this prediction.
 
-* __Mean Squared Error__
+* [__Mean Squared Error__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
 * __Mean Absolute Error__
 
 ## Machine Learning Models
