@@ -14,7 +14,7 @@ One of the challenges that these companies face is to know the number of bikes t
 
 ## Data Science and Machine Learning 
 
-With the help of __machine learning__ and __deep learning__, this problem could be addressed and this would ensure that the demand for the bikes are known beforehand and thus, the companies could ensure that there are __adequate bikes__ present in different locations.
+With the help of __machine learning__ and __deep learning__, this problem could be addressed and this would ensure that the demand for the bikes is known beforehand thus, the companies could ensure that there are __adequate bikes__ present in different locations.
 
 ## Exploratory Data Analysis (EDA)
 
