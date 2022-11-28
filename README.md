@@ -41,17 +41,19 @@ There are a large number of machine learning models used in the prediction of th
 
 ## Machine Learning Predictions and Analysis 
 
-* It is important to know some of the features that are present in the data so that we could be doing the __machine learning__ analysis. 
+* It is important to know some of the features that are present in the data so that we could be doing the __machine learning__ analysis.
 * We would be performing various __data visualizations__ to understand some of the underlying features and once we get a good understanding of them, we are going to be using different machine learning models for predicting the demand for bikes based on these features.
-* Once we get the machine learning predictions, we are going to be using different strategies that could aid us in the process of productionizing the models that could be used in different ways in companies. 
-* Therefore, this would save a lot of time and money for the bike rental companies where the demand for the bikes is predicted beforehand with the aid of machine learning and deep learning respectively. 
+* Once we get the machine learning predictions, we are going to be using different strategies that could aid us in the process of running the models in production that could be used in different ways in companies.
+* Therefore, this would save a lot of time and money for the bike rental companies where the demand for the bikes is predicted beforehand with the aid of machine learning and deep learning respectively.
 
 ## Outcomes
+
 * The models that were able to perform the best for predicting the bike demand are __Gradient Boosting Decision Regressor__ and __Deep Neural Networks__.
 * __Exploratory Data Analysis (EDA)__ was performed to ensure that there is a good understanding of different features and their contribution to the output variable respectively. 
 * The best machine learning models were able to generate a __mean absolute error (MAE)__ of about __23__ which is really good considering the scale of the problem at hand.
 
 ## Future Scope
+
 * Additional features such as the __street connectivity score__ and __people's perceptions__ about the bicycling environment could be added to generate even more good predictions from the models. 
 * The best machine learning models could be __deployed__ in real-time where the demand for bikes is highlighted so that admins can take action based on the __demand__. 
 
