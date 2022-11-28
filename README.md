@@ -54,8 +54,8 @@ There are a large number of machine learning models used in the prediction of th
 
 ## Future Scope
 
-* Additional features such as the __street connectivity score__ and __people's perceptions__ about the bicycling environment could be added to generate even more good predictions from the models. 
-* The best machine learning models could be __deployed__ in real-time where the demand for bikes is highlighted so that admins can take action based on the __demand__. 
+* Additional features such as the __street connectivity score__ and __people's perceptions__ of the bicycling environment could be added to generate even more good predictions from the models.
+* The best machine learning models could be __deployed__ in real-time where the demand for bikes is highlighted so that admins can take action based on the __demand__.
 
 ## 👉 Directions to download the repository and run the notebook 
 
