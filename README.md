@@ -10,7 +10,7 @@ There are different bike companies such as [__Zagster__](https://en.wikipedia.or
 
 ## Challenges
 
-One of the challenges that these companies face is to know the __number of bikes__ that must be placed at different locations at different instances of time to ensure that they get __maximum profit__ and give the people their rides. Sometimes there is a possibility of people missing out these bikes due to their unavailability. On the contrary, there are also instances when the demand for these bikes are low while they are highly available in many locations without being used. Therefore, it becomes important to tackle these instances and understand the demand for the bikes for different days and scenarios. 
+One of the challenges that these companies face is to know the number of bikes that must be placed at different locations at different instances of time to ensure that they get maximum profit and give the people their rides. Sometimes there is a possibility of people missing out on these bikes due to their unavailability. On the contrary, there are also instances when the demand for these bikes is low while they are highly available in many locations without being used. Therefore, it becomes important to tackle these instances and understand the demand for bikes for different days and scenarios.
 
 ## Data Science and Machine Learning 
 
