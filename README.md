@@ -6,7 +6,7 @@
 
 There are different bike companies such as [__Zagster__](https://en.wikipedia.org/wiki/Zagster) and [__Lime Bikes__](https://www.li.me/en-US/home) present all over the __US__ to ensure that people get rides when needed. As a result, there is an increase in demand for these bikes as some people move to these __cost-efficient__ and __environment-friendly__ transport options. As a result of this transition, there is variation in the demand for bikes in different regions. 
 
-<img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Bike%20Demand%20Prediction%20Image.jpg" width = 1000 height = "600"/> <img src = "https://github.com/suhasmaddali/Images/blob/main/Washington%20Bike%20Prediction%20Image.jpg"/>
+<img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Bike%20Demand%20Prediction%20Image.jpg" width = 500 height = 300/> <img src = "https://github.com/suhasmaddali/Images/blob/main/Washington%20Bike%20Prediction%20Image.jpg"/>
 
 ## Challenges
 
