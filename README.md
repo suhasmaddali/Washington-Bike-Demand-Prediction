@@ -8,6 +8,8 @@ There are different bike companies such as [__Zagster__](https://en.wikipedia.or
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Bike%20Demand%20Prediction%20Image.jpg" width = 1000 height = "600"/>
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Washington%20Bike%20Prediction%20Image.jpg"/>
+
 ## Challenges
 
 One of the challenges that these companies face is to know the number of bikes that must be placed at different locations at different instances of time to ensure that they get maximum profit and give the people their rides. Sometimes there is a possibility of people missing out on these bikes due to their unavailability. On the contrary, there are also instances when the demand for these bikes is low while they are highly available in many locations without being used. Therefore, it becomes important to tackle these instances and understand the demand for bikes for different days and scenarios.
