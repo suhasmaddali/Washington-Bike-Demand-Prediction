@@ -45,6 +45,8 @@ After reading the dataset with pandas, we get the following results about the da
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Input%20Data.png"/>
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Washin/Data%20Description%20Image.png"/>
+
 ## Machine Learning Predictions and Analysis 
 
 * It is important to know some of the features that are present in the data so that we could be doing the __machine learning__ analysis.
