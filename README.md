@@ -41,6 +41,8 @@ There are a large number of machine learning models used in the prediction of th
 
 ## Visualizations
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Input%20Data.png"/>
+
 ## Machine Learning Predictions and Analysis 
 
 * It is important to know some of the features that are present in the data so that we could be doing the __machine learning__ analysis.
