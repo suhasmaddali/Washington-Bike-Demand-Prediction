@@ -20,6 +20,8 @@ With the help of __machine learning__ and __deep learning__, this problem could 
 
 Therefore, with the help of __data visualization__ and __machine learning__, bike rental companies would be able to understand the total number of bikes that must be present at different instances of time and thus, they would be able to predict the demand for the bikes in the future. This would ensure that the companies save millions of dollars by giving the right service to different people who are in need. 
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Input%20Data.png"/>
+
 ## Metrics
 
 Since this is a __regression__ problem, we consider metrics that take into account __continuous output variables__ and give their estimates based on the difference between the __actual output__ and __predicted output__. Below are some metrics that are used for this prediction.
@@ -38,10 +40,6 @@ There are a large number of machine learning models used in the prediction of th
 * [__Gradient Boosting Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
 * [__Logistic Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 * [__Long Short Term Memory (LSTM)__](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
-
-## Visualizations
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Input%20Data.png"/>
 
 ## Machine Learning Predictions and Analysis 
 
