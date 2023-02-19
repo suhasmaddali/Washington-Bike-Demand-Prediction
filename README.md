@@ -46,6 +46,8 @@ There are a large number of machine learning models used in the prediction of th
 * Once we get the machine learning predictions, we are going to be using different strategies that could aid us in the process of running the models in production that could be used in different ways in companies.
 * Therefore, this would save a lot of time and money for the bike rental companies where the demand for the bikes is predicted beforehand with the aid of machine learning and deep learning respectively.
 
+## Visualizations
+
 ## Outcomes
 
 * The models that were able to perform the best for predicting the bike demand are __Gradient Boosting Decision Regressor__ and __Deep Neural Networks__.
