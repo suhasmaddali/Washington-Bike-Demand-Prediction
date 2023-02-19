@@ -41,9 +41,11 @@ There are a large number of machine learning models used in the prediction of th
 
 ## Visualizations
 
-After reading the dataset with pandas, we get the following results about the data and the features. 
-
+We would be mostly focusing on exploratory data analysis (EDA) to help us get an understanding about the data used. Based on this information, steps could be taken to perform feature engineering and improve model performance. 
+ 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Input%20Data.png"/>
+
+After reading the dataset with pandas, we get the following results about the data and the features.
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Washin/Data%20Description%20Image.png"/>
 
@@ -51,6 +53,7 @@ Getting an understanding about the description of features in the dataset and un
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Washin/Countplot%20of%20different%20seasons.png"/>
 
+It could be seen from the data that there is more data from the fall season category as compared to other seasons. But there is negligible difference based on the count of various seasons. 
 
 ## Machine Learning Predictions and Analysis 
 
