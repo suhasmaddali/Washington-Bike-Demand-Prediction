@@ -59,6 +59,10 @@ It could be seen from the data that there is more data from the fall season cate
 
 Based on the results, it is shown that there is higher demand for bikes during the fall season as compared to summer, winter and spring seasons. Therefore, giving this feature to our ML model would help determine the total demand for bikes based on the season. 
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Washin/Average%20demand%20in%20various%20months.png"/>
+
+Based on the average demand for bikes in various months, September had the highest demand followed by June and August. Hence, having information about the month can help determine the demand for bikes. 
+
 ## Machine Learning Predictions and Analysis 
 
 * It is important to know some of the features that are present in the data so that we could be doing the __machine learning__ analysis.
