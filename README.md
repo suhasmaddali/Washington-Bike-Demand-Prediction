@@ -53,7 +53,11 @@ Getting an understanding about the description of features in the dataset and un
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Washin/Countplot%20of%20different%20seasons.png"/>
 
-It could be seen from the data that there is more data from the fall season category as compared to other seasons. But there is negligible difference based on the count of various seasons. 
+It could be seen from the data that there is more data from the fall season category as compared to other seasons. But there is negligible difference based on the count of various seasons.
+
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Washin/Average%20bike%20demand%20in%20various%20seasons.png"/>
+
+Based on the results, it is shown that there is higher demand for bikes during the fall season as compared to summer, winter and spring seasons. Therefore, giving this feature to our ML model would help determine the total demand for bikes based on the season. 
 
 ## Machine Learning Predictions and Analysis 
 
