@@ -49,6 +49,9 @@ After reading the dataset with pandas, we get the following results about the da
 
 Getting an understanding about the description of features in the dataset and understanding their spread in terms of variance and standard deviation. 
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Washin/Countplot%20of%20different%20seasons.png"/>
+
+
 ## Machine Learning Predictions and Analysis 
 
 * It is important to know some of the features that are present in the data so that we could be doing the __machine learning__ analysis.
