@@ -39,14 +39,14 @@ There are a large number of machine learning models used in the prediction of th
 * [__Logistic Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 * [__Long Short Term Memory (LSTM)__](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
 
+## Visualizations
+
 ## Machine Learning Predictions and Analysis 
 
 * It is important to know some of the features that are present in the data so that we could be doing the __machine learning__ analysis.
 * We would be performing various __data visualizations__ to understand some of the underlying features and once we get a good understanding of them, we are going to be using different machine learning models for predicting the demand for bikes based on these features.
 * Once we get the machine learning predictions, we are going to be using different strategies that could aid us in the process of running the models in production that could be used in different ways in companies.
 * Therefore, this would save a lot of time and money for the bike rental companies where the demand for the bikes is predicted beforehand with the aid of machine learning and deep learning respectively.
-
-## Visualizations
 
 ## Outcomes
 
