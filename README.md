@@ -41,6 +41,8 @@ There are a large number of machine learning models used in the prediction of th
 
 ## Visualizations
 
+After reading the dataset with pandas, we get the following results about the data and the features. 
+
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Input%20Data.png"/>
 
 ## Machine Learning Predictions and Analysis 
