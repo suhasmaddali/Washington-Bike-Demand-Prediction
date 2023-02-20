@@ -67,6 +67,10 @@ Based on the average demand for bikes in various months, September had the highe
 
 The recorded data is on a large number of days where there is lower windspeed. This makes sense as cyclists tend to not ride bikes when there is a high windspeed. 
 
+<img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Temperature%20Distribution.png"/>
+
+The temperature distribution highlights that most of the records or bookings are done when there is moderate temperature. Therefore, our ML model should be able to predict the demand for bikes well during moderate temperature days.
+
 ## Machine Learning Predictions and Analysis 
 
 * It is important to know some of the features that are present in the data so that we could be doing the __machine learning__ analysis.
