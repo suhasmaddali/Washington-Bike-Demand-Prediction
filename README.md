@@ -78,10 +78,12 @@ This plot showcases the total demand for bikes during different hours of the day
 __Model Performance__:
 We will now focus our attention on the performance of __various models__ on the test data. Scatterplots can help us determine how much of a spread our predictions are from the actual values. Let us go over the performance of many ML models used in our problem of bike demand prediction. 
 
+<img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/DNN%20Performance.png"/>
+
 ## Machine Learning Predictions and Analysis 
 
 * It is important to know some of the features that are present in the data so that we could be doing the __machine learning__ analysis.
-* We would be performing various __data visualizations__ to understand some of the underlying features and once we get a good understanding of them, we are going to be using different machine learning models for predicting the demand for bikes based on these features.
+* We performed various __data visualizations__ to understand some of the underlying features and once we got a good understanding of them, we used different machine learning models for predicting the demand for bikes based on these features.
 * Once we get the machine learning predictions, we are going to be using different strategies that could aid us in the process of running the models in production that could be used in different ways in companies.
 * Therefore, this would save a lot of time and money for the bike rental companies where the demand for the bikes is predicted beforehand with the aid of machine learning and deep learning respectively.
 
