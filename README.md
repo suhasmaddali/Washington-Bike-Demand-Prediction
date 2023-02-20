@@ -82,7 +82,9 @@ We will now focus our attention on the performance of __various models__ on the 
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/DNN%20Performance.png"/>
 
+[__K Nearest Neighbors__](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html) - The plot below shows the performance of K Nearest Neighbors on the test set. There is a lot of scatter between the predictions between the model predictions and the test data. Therefore, we can look for alternate models that can improve performance further. 
 
+<img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/KNN%20Performance.png"/>
 
 ## Machine Learning Predictions and Analysis 
 
