@@ -63,6 +63,9 @@ Based on the results, it is shown that there is higher demand for bikes during t
 
 Based on the average demand for bikes in various months, September had the highest demand followed by June and August. Hence, having information about the month can help determine the demand for bikes. 
 
+<img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Windspeed%20Distribution.png"/>
+
+
 ## Machine Learning Predictions and Analysis 
 
 * It is important to know some of the features that are present in the data so that we could be doing the __machine learning__ analysis.
