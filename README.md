@@ -65,6 +65,7 @@ Based on the average demand for bikes in various months, September had the highe
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Windspeed%20Distribution.png"/>
 
+The recorded data is on a large number of days where there is lower windspeed. This makes sense as cyclists tend to not ride bikes when there is a high windspeed. 
 
 ## Machine Learning Predictions and Analysis 
 
