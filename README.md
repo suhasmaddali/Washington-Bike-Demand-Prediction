@@ -90,6 +90,8 @@ We will now focus our attention on the performance of __various models__ on the 
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Decision%20Tree%20Performance.png"/>
 
+[__Gradient Boosting Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html) - Gradient boosted decision trees (GBDT) also does a good job in identifying and predicting the demand for bikes during different times of the day. The performance is quite comparable to that of decision tree regressor as shown in the figure below. 
+
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/GBDT%20Performance.png"/>
 
 ## Machine Learning Predictions and Analysis 
