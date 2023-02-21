@@ -36,7 +36,7 @@ There are a large number of machine learning models used in the prediction of th
 * [__Partial Least Squares (PLS) Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSRegression.html)
 * [__Decision Tree Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
 * [__Gradient Boosting Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
-* [__Linear Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+* [__Linear Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 * [__Long Short Term Memory (LSTM)__](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
 
 ## Visualizations
@@ -94,7 +94,7 @@ We will now focus our attention on the performance of __various models__ on the 
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/GBDT%20Performance.png"/>
 
-[__Linear Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) - Below is the performance plot of linear regression model. Since the model is less complex, there is a higher chance that there could be bias in the model. This could be seen as there is not a straight line between the predictions and the true labels. 
+[__Linear Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) - Below is the performance plot of linear regression model. Since the model is less complex, there is a higher chance that there could be bias in the model. This could be seen as there is not a straight line between the predictions and the true labels. 
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/LR%20Performance.png"/>
 
