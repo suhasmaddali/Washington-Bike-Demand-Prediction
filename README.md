@@ -75,7 +75,8 @@ The temperature distribution highlights that most of the records or bookings are
 
 This plot showcases the total demand for bikes during different hours of the day. In general, we tend to see a lot of bookings in the evening at 5:00 PM. This generally indicates that people go home after work from offices and they tend to book bikes during these times. In contrast, we tend to find less demand for bikes during early morning hours for timings from 12:00 AM to 6:00 AM. 
 
-__Model Performance__:
+### Model Performance:
+
 We will now focus our attention on the performance of __various models__ on the test data. Scatterplots can help us determine how much of a spread our predictions are from the actual values. Let us go over the performance of many ML models used in our problem of bike demand prediction. 
 
 [__Deep Neural Networks__](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html) - After plotting the distribution of predictions on the test set versus the actual test output values, there is a lot of overlap in the model predictions with the true labels. Hence, deep neural networks are performing well on the test data. Let us also test the results of other models to determine the best model to be deployed to predict bike demand in the future.
