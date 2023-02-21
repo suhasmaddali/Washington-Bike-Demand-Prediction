@@ -90,6 +90,8 @@ We will now focus our attention on the performance of __various models__ on the 
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Decision%20Tree%20Performance.png"/>
 
+<img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/GBDT%20Performance.png"/>
+
 ## Machine Learning Predictions and Analysis 
 
 * It is important to know some of the features that are present in the data so that we could be doing the __machine learning__ analysis.
