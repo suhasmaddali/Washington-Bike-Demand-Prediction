@@ -41,7 +41,7 @@ There are a large number of machine learning models used in the prediction of th
 
 ## Visualizations
 
-We would be mostly focusing on exploratory data analysis (EDA) to help us get an understanding about the data used. Based on this information, steps could be taken to perform feature engineering and improve model performance. 
+We would be mostly focusing on exploratory data analysis (EDA) to help us get an understanding of the data used. Based on this information, steps could be taken to perform feature engineering and improve model performance. 
  
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Input%20Data.png"/>
 
@@ -49,15 +49,15 @@ After reading the dataset with pandas, we get the following results about the da
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Washin/Data%20Description%20Image.png"/>
 
-Getting an understanding about the description of features in the dataset and understanding their spread in terms of variance and standard deviation. 
+Getting an understanding of the description of features in the dataset and understanding their spread in terms of variance and standard deviation. 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Washin/Countplot%20of%20different%20seasons.png"/>
 
-It could be seen from the data that there is more data from the fall season category as compared to other seasons. But there is negligible difference based on the count of various seasons.
+It could be seen from the data that there is more data from the fall season category as compared to other seasons. But there is a negligible difference based on the count of various seasons.
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Washin/Average%20bike%20demand%20in%20various%20seasons.png"/>
 
-Based on the results, it is shown that there is higher demand for bikes during the fall season as compared to summer, winter and spring seasons. Therefore, giving this feature to our ML model would help determine the total demand for bikes based on the season. 
+Based on the results, it is shown that there is a higher demand for bikes during the fall season as compared to the summer, winter, and spring seasons. Therefore, giving this feature to our ML model would help determine the total demand for bikes based on the season. 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Washin/Average%20demand%20in%20various%20months.png"/>
 
@@ -65,11 +65,11 @@ Based on the average demand for bikes in various months, September had the highe
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Windspeed%20Distribution.png"/>
 
-The recorded data is on a large number of days where there is lower windspeed. This makes sense as cyclists tend to not ride bikes when there is a high windspeed. 
+The recorded data is on a large number of days where there is a lower windspeed. This makes sense as cyclists tend to not ride bikes when there is a high wind speed. 
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Temperature%20Distribution.png"/>
 
-The temperature distribution highlights that most of the records or bookings are done when there is moderate temperature. Therefore, our ML model should be able to predict the demand for bikes well during moderate temperature days.
+The temperature distribution highlights that most of the records or bookings are done when there is a moderate temperature. Therefore, our ML model should be able to predict the demand for bikes well during moderate-temperature days.
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Demand%20Hours.png"/>
 
@@ -87,15 +87,15 @@ We will now focus our attention on the performance of __various models__ on the 
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/KNN%20Performance.png"/>
 
-[__Decision Tree Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html) - This model also performs well and its performance is comparable to that of deep neural networks. Depending on the device (Server, Mobile and so on) that we use to deploy, we can switch to various models based on their performance and latency. 
+[__Decision Tree Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html) - This model also performs well and its performance is comparable to that of deep neural networks. Depending on the device (Server, Mobile, and so on) that we use to deploy, we can switch to various models based on their performance and latency. 
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/Decision%20Tree%20Performance.png"/>
 
-[__Gradient Boosting Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html) - Gradient boosted decision trees (GBDT) also does a good job in identifying and predicting the demand for bikes during different times of the day. The performance is quite comparable to that of decision tree regressor as shown in the figure below. 
+[__Gradient Boosting Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html) - Gradient boosted decision trees (GBDT) also does a good job in identifying and predicting the demand for bikes during different times of the day. The performance is quite comparable to that of the decision tree regressor as shown in the figure below. 
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/GBDT%20Performance.png"/>
 
-[__Linear Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) - Below is the performance plot of linear regression model. Since the model is less complex, there is a higher chance that there could be bias in the model. This could be seen as there is not a straight line between the predictions and the true labels. 
+[__Linear Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) - Below is the performance plot of a linear regression model. Since the model is less complex, there is a higher chance that there could be bias in the model. This could be seen as there is not a straight line between the predictions and the true labels. 
 
 <img src = "https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction/blob/main/images/LR%20Performance.png"/>
 
