@@ -1,0 +1,5 @@
+version: '3'
+services:
+  bike_demand_prediction:
+    build: .
+    
