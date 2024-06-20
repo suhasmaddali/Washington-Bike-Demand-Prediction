@@ -1,6 +1,9 @@
 version: '3'
 services:
-  bike_demand_prediction:
+  development:
     build: 
       context: .
       dockerfile: Dockerfile.dev
+
+  deployment:
+    build: .
