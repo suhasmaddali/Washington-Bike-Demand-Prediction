@@ -1,25 +1,9 @@
-import sys
-import pprint
-import seaborn as sns
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import warnings
-from sklearn.linear_model import LinearRegression
-from sklearn.neighbors import KNeighborsRegressor
-from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import mean_squared_error, mean_absolute_error, roc_auc_score
+from tensorflow import keras
+from sklearn.metrics import mean_squared_error, mean_absolute_error
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.cross_decomposition import PLSRegression
+import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.svm import SVR
 from datetime import datetime
-from tensorflow.keras.layers import Dense, Activation
-from tensorflow.keras.models import Sequential
-import warnings
-warnings.filterwarnings("ignore")
 
 def data_preprocess():
 
@@ -70,26 +54,6 @@ def data_preprocess():
 
     return X_train, X_cv, y_train, y_cv
 
-def neural_networks(input_list):
-
-    X_train = input_list[0]
-    X_cv = input_list[1]
-    y_train = input_list[2]
-    y_cv = input_list[3]
-
-    model = Sequential()
-    model.add(Dense(100, activation = 'relu'))
-    model.add(Dense(50, activation = 'relu'))
-    model.add(Dense(25, activation = 'relu'))
-    model.add(Dense(10, activation = 'relu'))
-    model.add(Dense(5, activation = 'relu'))
-    model.add(Dense(1))
-    model.compile(optimizer = 'adam', loss = 'MSE', metrics = ['MSE', 'MAE'])
-
-    model.fit(X_train, y_train, epochs = 10, verbose = 1, validation_data = (X_cv, y_cv))
-
-    return model
-
 if __name__ == "__main__":
 
     X_train, X_cv, y_train, y_cv = data_preprocess()
@@ -99,12 +63,12 @@ if __name__ == "__main__":
     X_train = scaler.transform(X_train)
     X_cv = scaler.transform(X_cv)
 
-    input_data = [X_train, X_cv, y_train, y_cv]
+    model = keras.models.load_model('models/neural_networks.h5')
+    y_predictions = model.predict(X_cv)
 
-    model = neural_networks(input_list=input_data)
+    mse = mean_squared_error(y_cv, y_predictions)
+    mae = mean_absolute_error(y_cv, y_predictions)
 
-    model.save('models/neural_networks.h5')
-
-
-
+    print(f"Mean Squared Error (MSE): {mse}")
+    print(f"Mean Absolute Error (MAE): {mae}")
 

@@ -4,6 +4,8 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile.dev
+    volumes:
+      - ./models:/app/models
 
   deployment:
     build: .
