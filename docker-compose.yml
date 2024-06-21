@@ -1,5 +1,11 @@
 version: '3'
 services:
-  bike_demand_prediction:
+  development:
+    build: 
+      context: .
+      dockerfile: Dockerfile.dev
+    volumes:
+      - ./models:/app/models
+
+  deployment:
     build: .
-    

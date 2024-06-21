@@ -6,5 +6,5 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
-CMD ["python", "src/model_inference.py"]
+CMD ["python", "src/test.py"]
 
